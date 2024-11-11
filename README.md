@@ -2,11 +2,15 @@
 
 Welcome to the Business Intelligence Dashboard project repository! This initiative presents a suite of dashboards designed to deliver essential insights across multiple business domains, including finance, sales, marketing, supply chain, and executive performance metrics.
 
+
 Dashboard Link: Link
 
 LinkedIn Post: 
 
+
 Dashboard Highlights
+
+
 
 Finance Dashboard
 
@@ -17,6 +21,7 @@ Finance Dashboard
 •	Monitor Net Sales performance trends
 
 •	Analyse KPIs, including Net Sales, Gross Margin %, and Net Profit %
+
 
 
 
@@ -31,6 +36,7 @@ Marketing Dashboard
 
 
 
+
 Sales Dashboard
 
 •	Measure product and customer success
@@ -38,6 +44,7 @@ Sales Dashboard
 •	Analyse Gross Margin % by region
 
 •	Review Unit Economics through COGS and Gross Margin
+
 
 
 
@@ -50,6 +57,7 @@ Supply Chain Dashboard
 
 
 
+
 Executive Dashboard
 
 •	Monitor market share trends
@@ -58,6 +66,7 @@ Executive Dashboard
 
 
 •	Identify top products and customers by revenue
+
 
 
 
