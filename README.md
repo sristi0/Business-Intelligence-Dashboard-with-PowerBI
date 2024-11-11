@@ -1,94 +1,41 @@
-# Business-Intelligence-Dashboard-with-PowerBI
+# Business-Intelligence-Dashboard-with-Power-BI
 
-Welcome to the Business Intelligence Dashboard project repository! This initiative presents a suite of dashboards designed to deliver essential insights across multiple business domains, including finance, sales, marketing, supply chain, and executive performance metrics.
+Welcome to the Business Intelligence Dashboard repository! This project features a comprehensive set of dashboards designed to provide crucial insights across various business domains including finance, sales, marketing, supply chain, and executive performance.
 
+**Dashboard Link** : [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTlhODcyYzAtODg5MS00M2ZlLTkwMTMtZjg0ZTlmOTMxYzA0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**LinkedIn Post**      : [Click Here]
 
-Dashboard Link: Link
+**Dashboards Overview**
 
-LinkedIn Post: 
-
-
-Dashboard Highlights
-
-
-
-Finance Dashboard
-
-•	Examine the P&L Statement
-
-•	Identify leading and lagging products and customers by Net Sales
-
-•	Monitor Net Sales performance trends
-
-•	Analyse KPIs, including Net Sales, Gross Margin %, and Net Profit %
-
-
-
-
-Marketing Dashboard
-
-•	Assess product and customer performance
-
-•	Track divisional performance metrics
-
-
-•	Evaluate Unit Economics using Cost of Goods Sold (COGS) and Gross Margin
-
-
-
-
-Sales Dashboard
-
-•	Measure product and customer success
-
-•	Analyse Gross Margin % by region
-
-•	Review Unit Economics through COGS and Gross Margin
-
-
-
-
-Supply Chain Dashboard
-
-•	Examine metrics like Forecast Accuracy % and Net Error
-
-•	Spot trends in accuracy and net error for actionable insights
-
-
-
-
-
-Executive Dashboard
-
-•	Monitor market share trends
-
-•	Review revenue distribution
-
-
-•	Identify top products and customers by revenue
-
-
-
-
-Skills Developed in Power BI Training
-
-•	Efficient data loading and transformation from multiple sources using Power Query
-
-•	Comprehensive data cleaning and preparation via Power Query
-
-
-•	Creation of measures and advanced calculations using DAX
-
-•	Proficient data modelling techniques
-
-
-•	Development of dynamic titles and KPI indicators for enhanced insights
-
-•	Selection of suitable visuals with conditional formatting
-
-
-•	Designing clear, user-friendly dashboards and ensuring data accuracy
-
-•	Utilizing Power BI services for smooth navigation and data presentation
-
-
+**Finance View**
+* Delve into P&L Statement
+* Identify top/bottom products/customers by Net Sales
+* Track Net Sales performance over time
+* Analyze KPIs like Net Sales, GM%, and Net Profit%
+**Marketing View**
+* Investigate customer and product performance metrics
+* Analyze divisional performance metrics
+* Explore Unit Economics via COGS and GM
+**Sales View**
+* Evaluate customer and product performance metrics
+* Analyze performance by GM% and region
+* Explore unit economics like COGS and GM
+**Supply Chain**
+* Explore customer and product metrics like Forecast Accuracy% and Net Error
+* Analyze trends in Accuracy and Net Error for actionable insights
+**Executive View**
+* Track market share trends
+* Analyze revenue distribution
+* Identify top customers/products by revenue
+  
+**Skills Mastered in Power BI Training**
+* Efficiently loading and transforming data from various sources using Power Query
+* Thorough data cleaning and preparation using Power Query
+* Creating measures and advanced calculations using DAX language
+* Effective data modeling techniques
+* Creating dynamic titles and using KPI indicators for insights
+* Choosing appropriate visuals and using conditional formatting
+* Designing easy-to-understand dashboards and maintaining data accuracy
+* Utilizing Power BI services for seamless navigation and data visualization
+  
+**Checkout Certificate**: [Click Here](https://codebasics.io/certificate/CB-49-291187)
