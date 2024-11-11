@@ -1,1 +1,1 @@
-# sristi0-Business-Intelligence-Dashboard-with-PowerBI
+# Business-Intelligence-Dashboard-with-PowerBI
