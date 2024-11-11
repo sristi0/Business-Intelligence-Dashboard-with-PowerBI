@@ -10,8 +10,11 @@ Dashboard Highlights
 
 Finance Dashboard
 •	Examine the P&L Statement
+
 •	Identify leading and lagging products and customers by Net Sales
+
 •	Monitor Net Sales performance trends
+
 •	Analyse KPIs, including Net Sales, Gross Margin %, and Net Profit %
 
 Marketing Dashboard
