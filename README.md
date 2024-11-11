@@ -4,7 +4,7 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 
 **Dashboard Link** : [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTlhODcyYzAtODg5MS00M2ZlLTkwMTMtZjg0ZTlmOTMxYzA0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-**LinkedIn Post**      : [Click Here]
+**LinkedIn Post**      : [Click Here](https://www.linkedin.com/posts/sristigaur_atliq-business-insights-activity-7261816636976873473-VH3M?utm_source=share&utm_medium=member_ios)
 
 **Dashboards Overview**
 
