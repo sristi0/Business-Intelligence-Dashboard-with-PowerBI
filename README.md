@@ -9,6 +9,7 @@ LinkedIn Post:
 Dashboard Highlights
 
 Finance Dashboard
+
 •	Examine the P&L Statement
 
 •	Identify leading and lagging products and customers by Net Sales
@@ -16,6 +17,8 @@ Finance Dashboard
 •	Monitor Net Sales performance trends
 
 •	Analyse KPIs, including Net Sales, Gross Margin %, and Net Profit %
+
+
 
 Marketing Dashboard
 
@@ -26,11 +29,16 @@ Marketing Dashboard
 
 •	Evaluate Unit Economics using Cost of Goods Sold (COGS) and Gross Margin
 
+
+
 Sales Dashboard
+
 •	Measure product and customer success
+
 •	Analyse Gross Margin % by region
 
 •	Review Unit Economics through COGS and Gross Margin
+
 
 
 Supply Chain Dashboard
@@ -38,6 +46,8 @@ Supply Chain Dashboard
 •	Examine metrics like Forecast Accuracy % and Net Error
 
 •	Spot trends in accuracy and net error for actionable insights
+
+
 
 
 Executive Dashboard
@@ -48,6 +58,8 @@ Executive Dashboard
 
 
 •	Identify top products and customers by revenue
+
+
 
 Skills Developed in Power BI Training
 
