@@ -39,4 +39,4 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 * Designing easy-to-understand dashboards and maintaining data accuracy
 * Utilizing Power BI services for seamless navigation and data visualization
   
-**Checkout Certificate**: [Click Here](https://codebasics.io/certificate/CB-49-291187)
+
